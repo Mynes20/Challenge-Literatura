@@ -1,4 +1,4 @@
-# Challenge-Literatura
+# Desafío Literalura
 
 Este es una aplicación de consola de Java Spring Boot que proporciona una interfaz para administrar libros y autores.
 
